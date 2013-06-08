@@ -1,4 +1,4 @@
-// Generated on 2013-05-31 using generator-bootstrap-less 2.0.3
+// Generated on 2013-06-08 using generator-bootstrap-less 2.0.3
 'use strict';
 
 var lrSnippet = require('grunt-contrib-livereload/lib/utils').livereloadSnippet;
